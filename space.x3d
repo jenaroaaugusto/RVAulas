@@ -6,25 +6,66 @@
   <head>
   </head>
   <Scene>
-    <!-- Shape>
+    <Shape>
         <Appearance>
           <Material>
 
           </Material>
         </Appearance>
-        # <Cylinder radius='1.5' height ='20'></Cylinder>
+        <Cylinder radius='0.5' height ='20'></Cylinder>
 
-    </Shape-->
-    <!--Shape>
+    </Shape>
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+        # <Cylinder radius='1' height ='15'></Cylinder>
+
+    </Shape>
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+        # <Cylinder radius='1.5' height ='10'></Cylinder>
+
+    </Shape>
+
+    <Shape>
         <Appearance>
           <Material>
 
           </Material>
         </Appearance>
 
-        # <Box  size ='2.0 2.0 2.0'></Box>
+        <Box  size ='4.0 4.0 4.0'></Box>
 
-    </Shape-->
+    </Shape>
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+
+
+        <Sphere
+
+          radius='2.5'
+        ></Sphere>
+    </Shape>
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+        # <Cylinder radius='6' height ='0.2'></Cylinder>
+
+    </Shape>
     <!--Shape>
         <Appearance>
           <Material>
@@ -50,8 +91,8 @@
           radius='1.0'
         ></Sphere>
     </Shape-->
-  
-    <Shape>
+
+    <!--Shape>
         <Appearance>
           <Material>
 
@@ -63,6 +104,6 @@
           </FontStyle>
 
         ></Text>
-    </Shape>
+    </Shape-->
   </Scene>
   </X3D>
