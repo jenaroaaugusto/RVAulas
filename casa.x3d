@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding ='UTF-8'?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.0//EN"
+  "http://www.web3d.org/specifications/x3d-3.0.dtd">
+  <X3D profile='Immersive' version='3.0'>
+  # A Cylinder
+  <head>
+  </head>
+  <Scene>
+    <!--Parede sem janela -->
+    <Transform
+    translation = '0.0 0.0 0.35' scale= '0.5 0.5 0.5'
+  >
+
+      <Shape>
+          <Appearance>
+            <Material>
+
+            </Material>
+          </Appearance>
+            <Box size='0.1 2.5 3.5'></Box>
+
+      </Shape>
+   </Transform>
+   <!-- Janela -->
+   <!--Parte da frente da janela -->
+   <Transform
+   translation = '1.0 0.0 1.0' scale= '0.5 0.5 0.5'
+ >
+
+     <Shape>
+         <Appearance>
+           <Material>
+
+           </Material>
+         </Appearance>
+           <Box size='0.1 2.5 1.0'></Box>
+
+     </Shape>
+  </Transform>
+
+  <!-- Parades do meio -->
+  <!-- Parede do meio baixo -->
+  <Transform
+  translation = '1.0 -0.375 0.5' scale= '0.5 0.5 0.5'
+  >
+
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+          <Box size='0.1 1.0 2.0'></Box>
+
+    </Shape>
+  </Transform>
+  <!-- Trave da janela  -->
+  <Transform
+  translation = '1.0 0.0 0.5' scale= '0.5 0.5 0.5'
+  >
+
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+          <Box size='0.1 2.0 0.2'></Box>
+
+    </Shape>
+  </Transform>
+  <!-- Parede do meio auto -->
+  <Transform
+  translation = '1.0 0.5 0.5' scale= '0.5 0.5 0.5'
+  >
+
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+          <Box size='0.1 0.5 2.0'></Box>
+
+    </Shape>
+  </Transform>
+
+<!--Parte da janela tras  -->
+  <Transform
+  translation = '1.0 0.0 -0.25' scale= '0.5 0.5 0.5'
+>
+
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+          <Box size='0.1 2.5 1.0'></Box>
+
+    </Shape>
+ </Transform>
+<!-- Parede funda  -->
+  <Transform
+  translation = '0.5 0.0 -0.5' scale= '0.5 0.5 0.5'
+>
+
+    <Shape>
+        <Appearance>
+          <Material>
+
+          </Material>
+        </Appearance>
+          <Box size='2.0 2.5 0.1'></Box>
+
+    </Shape>
+ </Transform>
+ <!-- Parede frente  -->
+ <!-- Parade lado esquerdo -->
+   <Transform
+   translation = '0.24 0.0 1.25' scale= '0.5 0.5 0.5'
+ >
+
+     <Shape>
+         <Appearance>
+           <Material>
+
+           </Material>
+         </Appearance>
+           <Box size='1.0 2.5 0.1'></Box>
+
+     </Shape>
+  </Transform>
+<!-- Parade lado direito -->
+<Transform
+translation = '0.9 0.0 1.25' scale= '0.5 0.5 0.5'
+>
+
+  <Shape>
+      <Appearance>
+        <Material>
+
+        </Material>
+      </Appearance>
+        <Box size='0.5 2.5 0.1'></Box>
+
+  </Shape>
+</Transform>
+
+  </Scene>
+  </X3D>
