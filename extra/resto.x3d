@@ -1,0 +1,75 @@
+<Transform
+    translation = '0.522 0.70 1.25' scale= '0.5 0.5 0.5'
+  >
+
+      <Shape>
+          <Appearance>
+            <Material>
+
+            </Material>
+          </Appearance>
+            <Box size='1.81 0.1 0.1'></Box>
+
+      </Shape>
+    </Transform>
+
+    <!-- 3 -->
+     <Transform
+    translation = '0.522 0.75 1.25' scale= '0.5 0.5 0.5'
+  >
+
+      <Shape>
+          <Appearance>
+            <Material>
+
+            </Material>
+          </Appearance>
+            <Box size='1.71 0.1 0.1'></Box>
+
+      </Shape>
+    </Transform>
+    <!-- 4 -->
+     <Transform
+    translation = '0.522 0.8 1.25' scale= '0.5 0.5 0.5'
+  >
+
+      <Shape>
+          <Appearance>
+            <Material>
+
+            </Material>
+          </Appearance>
+           <Box size='1.71 0.1 0.1'></Box>
+
+      </Shape>
+    </Transform>
+    <!-- 5 -->
+      <Transform
+    translation = '0.522 0.85 1.25' scale= '0.5 0.5 0.5'
+  >
+
+      <Shape>
+          <Appearance>
+            <Material>
+
+            </Material>
+          </Appearance>
+           <Box size='1.71 0.1 0.1'></Box>
+
+      </Shape>
+    </Transform>
+    <!-- 6 -->
+      <Transform
+    translation = '0.522 0.85 1.25' scale= '0.5 0.5 0.5'
+  >
+
+      <Shape>
+          <Appearance>
+            <Material>
+
+            </Material>
+          </Appearance>
+           <Box size='1.71 0.1 0.1'></Box>
+
+      </Shape>
+    </Transform>
