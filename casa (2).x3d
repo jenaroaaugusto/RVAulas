@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE X3D PUBLIC "ISO//Web3D//DTD X3D 3.2//EN" "http://www.web3d.org/specifications/x3d-3.2.dtd">
+<X3D profile='Interchange' version='3.2'>
+<head>
+    <meta content='primitives-list.x3d' name='title'/>
+    <meta content='3D letters imported from .dae. Made with Google Sketchup. Illustration of IndexedTraingleSet.
+                   I changed the color to yellow and had to multiply scales by 100 since I was using small units' name='description'/>
+    <meta content='Daniel K. Schneider, TECFA, University of Geneva' name='creator'/>
+    <meta content='october 4 2010' name='created'/>
+    <meta name='modified'/>
+    <meta content='1.0' name='version'/>
+    <meta content='http://edutechwiki.unige.ch/en/X3D_shape_and_geometry' name='reference'/>
+    <meta content='Any X3D client' name='requires'/>
+    <meta content='http://creativecommons.org/licenses/by-nc-sa/3.0/' name='rights'/>
+    <meta content='http://tecfa.unige.ch/guides/x3d/ex/basics/laurence-name.x3d' name='identifier'/>
+    <meta content='X3D-Edit, https://savage.nps.edu/X3D-Edit' name='generator'/>
+    <meta content='http://creativecommons.org/licenses/by-nc-sa/3.0/' name='license'/>
+</head>
+<Scene>
+      <Transform DEF='COLLADA_UNITS' rotation='-1.0 0.0 0.0 1.570796' scale='2 2 2'>
+         <Transform>
+
+            <Shape>
+               <Appearance>
+                  <Material DEF='ID3' diffuseColor='1.0 1.0 0.0'></Material>
+               </Appearance>
+               <IndexedTriangleSet index='0 1 2 1 0 3 1 3 4 5 2 1 6 7 8 7 6 9 10
+                             11 12 11 10 13 14 15 16 15 14 17 18 19 20 19 18 21 22 23 24 23 22 25
+                             26 27 28 27 26 29 30 31 32 31 30 33 31 33 34 32 31 35'>
+                 <Coordinate DEF='ID5' point='-2.0556674 0.32395512
+                 0.04520603, -1.916368 0.3130246 0.16083883,
+                 -1.7492087 0.32395512 0.04520603, -2.0556674
+                 0.27354917 0.57844514, -1.916368 0.27354917
+                 0.57844514, -1.7492087 0.3130246 0.16083883,
+                 -1.7492087 0.32395512 0.04520603, -2.0556674
+                 -0.6990436 -0.05149582, -2.0556674 0.32395512
+                 0.04520603, -1.7492087 -0.6990436 -0.05149582,
+                 -2.0556674 0.27354917 0.57844514, -2.0556674
+                 -0.6990436 -0.05149582, -2.0556674 -0.74944955
+                 0.48174328, -2.0556674 0.32395512 0.04520603,
+                 -1.916368 -0.74944955 0.48174328, -2.0556674
+                 0.27354917 0.57844514, -2.0556674 -0.74944955
+                 0.48174328, -1.916368 0.27354917 0.57844514,
+                 -1.916368 -0.7099741 0.06413698, -1.916368 0.27354917
+                 0.57844514, -1.916368 -0.74944955 0.48174328,
+                 -1.916368 0.3130246 0.16083883, -1.7492087 -0.7099741
+                 0.06413698, -1.916368 0.3130246 0.16083883, -1.916368
+                 -0.7099741 0.06413698, -1.7492087 0.3130246
+                 0.16083883, -1.7492087 -0.6990436 -0.05149582,
+                 -1.7492087 0.3130246 0.16083883, -1.7492087
+                 -0.7099741 0.06413698, -1.7492087 0.32395512
+                 0.04520603, -2.0556674 -0.6990436 -0.05149582,
+                 -1.916368 -0.7099741 0.06413698, -2.0556674
+                 -0.74944955 0.48174328, -1.7492087 -0.6990436
+                 -0.05149582, -1.7492087 -0.7099741 0.06413698,
+                 -1.916368 -0.74944955 0.48174328'>
+                 </Coordinate>
+
+                 <Normal DEF='ID6' vector='2.7755576E-17 0.99556196
+                  0.09410831, 2.7755576E-17 0.99556196 0.09410831,
+                  2.7755576E-17 0.99556196 0.09410831, 2.7755576E-17
+                  0.99556196 0.09410831, 2.7755576E-17 0.99556196
+                  0.09410831, 2.7755576E-17 0.99556196 0.09410831,
+                  1.7270247E-17 0.09410831 -0.99556196, 1.7270247E-17
+                  0.09410831 -0.99556196, 1.7270247E-17 0.09410831
+                  -0.99556196, 1.7270247E-17 0.09410831 -0.99556196,
+                  -1.0 2.925767E-17 -1.4581571E-17, -1.0 2.925767E-17
+                  -1.4581571E-17, -1.0 2.925767E-17 -1.4581571E-17,
+                  -1.0 2.925767E-17 -1.4581571E-17, -1.7270247E-17
+                  -0.09410831 0.99556196, -1.7270247E-17 -0.09410831
+                  0.99556196, -1.7270247E-17 -0.09410831 0.99556196,
+                  -1.7270247E-17 -0.09410831 0.99556196, 1.0
+                  -2.925767E-17 1.4581571E-17, 1.0 -2.925767E-17
+                  1.4581571E-17, 1.0 -2.925767E-17 1.4581571E-17, 1.0
+                  -2.925767E-17 1.4581571E-17, -1.7270247E-17
+                  -0.09410831 0.99556196, -1.7270247E-17 -0.09410831
+                  0.99556196, -1.7270247E-17 -0.09410831 0.99556196,
+                  -1.7270247E-17 -0.09410831 0.99556196, 1.0
+                  -2.925767E-17 1.4581571E-17, 1.0 -2.925767E-17
+                  1.4581571E-17, 1.0 -2.925767E-17 1.4581571E-17, 1.0
+                  -2.925767E-17 1.4581571E-17, -2.7755576E-17
+                  -0.99556196 -0.09410831, -2.7755576E-17 -0.99556196
+                  -0.09410831, -2.7755576E-17 -0.99556196 -0.09410831,
+                  -2.7755576E-17 -0.99556196 -0.09410831,
+                  -2.7755576E-17 -0.99556196 -0.09410831,
+                  -2.7755576E-17 -0.99556196 -0.09410831'>
+                 </Normal>
+               </IndexedTriangleSet>
+            </Shape>
+
+            <Shape>
+               <Appearance>
+                  <Material USE='ID3'></Material>
+               </Appearance>
+               <IndexedTriangleSet index='... deleted ....'>
+                  <Coordinate DEF='ID11' point='.... deleted .....'></Coordinate>
+                  <Normal DEF='ID12' vector=' .... deleted'></Normal>
+               </IndexedTriangleSet>
+            </Shape>
+
+            <Shape>
+              <!-- deleted -->
+            </Shape>
+         <!-- other shapes deleted -->
+         </Transform>
+      </Transform>
+</Scene>
+</X3D>
